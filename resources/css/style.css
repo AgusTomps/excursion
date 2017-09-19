@@ -1,7 +1,35 @@
-.topheader{
+body{
+  text-align: center;
   font-family: Verdana;
+  color: white;
+}
+.topheader{
   font-weight: normal;
   font-size: 50px;
   text-align: center;
-  color: black;
+}
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+}
+.description{
+  font-size: 21px;
+  color: gray;
+}
+.subheader{
+font-size: 42px;
+font-weight: 300;
+}
+.icon{
+  margin-top: 25px;
+}
+.copyright{
+  text-align: right;
+  color: gray;
+}
+a:link{
+  color: Aquamarine;
+}
+a:visited{
+  color: Aquamarine;
 }
